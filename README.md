@@ -56,6 +56,7 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
+      <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" alt="java" title="java"/> 
       <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="css" title="css"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
     </kbd>
