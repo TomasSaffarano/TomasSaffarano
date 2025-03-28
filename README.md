@@ -82,7 +82,6 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against darkness with objects and bugs isn't easy, let me help you)
 
 ## Let's Work on Your Project Together!
 
@@ -91,7 +90,7 @@ If you have any questions about me, feel free to <a href="mailto:tomassaffarano1
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+Fighting against darkness with objects and bugs isn't easy, let me help you
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
