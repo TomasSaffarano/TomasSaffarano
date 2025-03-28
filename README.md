@@ -71,6 +71,7 @@
        <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg"  alt="gitHub" title="gitHub"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+      <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg"  alt="Discord" title="Discord"/>
   </p>
 </div>
 </details>
@@ -81,11 +82,11 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+[//]: # (Fighting against darkness with objects and bugs isn't easy, let me help you)
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about me, feel free to <a href="mailto:tomassaffarano1@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
@@ -93,9 +94,6 @@ If you have any questions about web development, writing mistake-free documentat
 ## It's not perfect, isn't it?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
 
   </td>
   </tr>
@@ -109,7 +107,7 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 <div align=center>
- <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+ <a href="www.linkedin.com/in/tomas-saffarano" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:tomassaffarano1@gmail.com?subject=Tomas%20Saffarano,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
